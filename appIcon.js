@@ -1,3 +1,4 @@
+'use strict';
 // Set up the tray icon for the Electron app
 const path = require('path')
 const electron = require('electron');

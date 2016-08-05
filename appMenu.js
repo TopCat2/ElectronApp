@@ -1,3 +1,4 @@
+'use strict';
 // Set up the bar menu for the Electron app
 
 

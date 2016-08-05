@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 const electron = require('electron');
 const appMenu = require('./appMenu');
 const appIcon = require('./appIcon');
