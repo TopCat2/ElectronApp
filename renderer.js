@@ -19,4 +19,5 @@ ipcRenderer.on('Clear', function(event, data) {
 })
 ipcRenderer.on('Close', function(event, data) {
     gameOfLife.close();
-})
+});
+

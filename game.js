@@ -166,7 +166,7 @@ var gameOfLife = {
       }
     });
   }
-}
+};
 
 
  //  gameOfLife.createAndShowBoard(false);
